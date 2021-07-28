@@ -9,8 +9,6 @@ namespace TestGit
             Console.WriteLine("Hello World!");
 
             //primero
-
-            //10
         }
     }
 }
