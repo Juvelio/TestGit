@@ -22,8 +22,6 @@ namespace TestGit
             //03
 
             //04
-
-            //05
         }
     }
 }
